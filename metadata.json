@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GIF Loader Generator",
+  "description": "Create, customize, and export premium animated loader GIFs and CSS loaders inspired by the reference design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
